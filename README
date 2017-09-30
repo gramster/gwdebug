@@ -1,0 +1,4 @@
+A drop-in debug library I wrote to help me with testing my C
+code back in the 1990s. This library could find numerous 
+problems with heap operations and buffer overruns. 
+
